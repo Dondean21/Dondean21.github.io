@@ -1,0 +1,15 @@
+body {
+background: url("https://townsquare.media/site/366/files/2014/06/oderus-1.jpg?w=980&q=75");
+background-size: cover;
+background-repeat: no-repeat;
+
+}
+
+h1{
+    color: salmon;
+    font-size: 80px
+}
+
+h2 {
+    color: white;
+}
